@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AbstractFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|c:\\users\\user\\source\\repos\\abstractfactory\\pinskdrevfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|solutionrelative:pinskdrevfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|c:\\users\\user\\source\\repos\\abstractfactory\\ikeafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|solutionrelative:ikeafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|c:\\users\\user\\source\\repos\\abstractfactory\\iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|solutionrelative:iabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|c:\\users\\user\\source\\repos\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1124A558-942F-49A1-A4EC-A6CD193EF3CC}|AbstractFactory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinskdrevFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AbstractFactory\\PinskdrevFactory.cs",
+              "RelativeDocumentMoniker": "PinskdrevFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AbstractFactory\\PinskdrevFactory.cs",
+              "RelativeToolTip": "PinskdrevFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:20:16.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IkeaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AbstractFactory\\IkeaFactory.cs",
+              "RelativeDocumentMoniker": "IkeaFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AbstractFactory\\IkeaFactory.cs",
+              "RelativeToolTip": "IkeaFactory.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:08:10.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AbstractFactory\\IAbstractFactory.cs",
+              "RelativeDocumentMoniker": "IAbstractFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AbstractFactory\\IAbstractFactory.cs",
+              "RelativeToolTip": "IAbstractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:56:44.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:55:26.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
