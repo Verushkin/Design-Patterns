@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\tigerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:tigerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\merkavafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:merkavafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\abramsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:abramsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\audifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:audifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\itankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:itankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:ivehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\scaniafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:scaniafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\manfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:manfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\volvofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:volvofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\volvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:volvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\merkava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:merkava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\hondafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:hondafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\icargofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:icargofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\teslafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:teslafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\abrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:abrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\itank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:itank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:man.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\scania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:scania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\icargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:icargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|c:\\users\\user\\source\\repos\\factorymethod\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBBEE3E-8433-4B65-9A85-CD43BBCE24D9}|FactoryMethod.csproj|solutionrelative:icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TigerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\TigerFactory.cs",
+              "RelativeDocumentMoniker": "TigerFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\TigerFactory.cs",
+              "RelativeToolTip": "TigerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:29:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MerkavaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\MerkavaFactory.cs",
+              "RelativeDocumentMoniker": "MerkavaFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\MerkavaFactory.cs",
+              "RelativeToolTip": "MerkavaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:28:48.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbramsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\AbramsFactory.cs",
+              "RelativeDocumentMoniker": "AbramsFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\AbramsFactory.cs",
+              "RelativeToolTip": "AbramsFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:27:11.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITankFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ITankFactory.cs",
+              "RelativeDocumentMoniker": "ITankFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ITankFactory.cs",
+              "RelativeToolTip": "ITankFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:26:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaniaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ScaniaFactory.cs",
+              "RelativeDocumentMoniker": "ScaniaFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ScaniaFactory.cs",
+              "RelativeToolTip": "ScaniaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:25:02.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ManFactory.cs",
+              "RelativeDocumentMoniker": "ManFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ManFactory.cs",
+              "RelativeToolTip": "ManFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:23:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VolvoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\VolvoFactory.cs",
+              "RelativeDocumentMoniker": "VolvoFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\VolvoFactory.cs",
+              "RelativeToolTip": "VolvoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:22:08.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:13:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICargoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ICargoFactory.cs",
+              "RelativeDocumentMoniker": "ICargoFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ICargoFactory.cs",
+              "RelativeToolTip": "ICargoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:20:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HondaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\HondaFactory.cs",
+              "RelativeDocumentMoniker": "HondaFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\HondaFactory.cs",
+              "RelativeToolTip": "HondaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:19:23.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudiFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\AudiFactory.cs",
+              "RelativeDocumentMoniker": "AudiFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\AudiFactory.cs",
+              "RelativeToolTip": "AudiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:18:16.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\IVehicleFactory.cs",
+              "RelativeDocumentMoniker": "IVehicleFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\IVehicleFactory.cs",
+              "RelativeToolTip": "IVehicleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:10:19.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeslaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\TeslaFactory.cs",
+              "RelativeDocumentMoniker": "TeslaFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\TeslaFactory.cs",
+              "RelativeToolTip": "TeslaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:16:45.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Tiger.cs",
+              "RelativeDocumentMoniker": "Tiger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Tiger.cs",
+              "RelativeToolTip": "Tiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:09:02.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Merkava.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Merkava.cs",
+              "RelativeDocumentMoniker": "Merkava.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Merkava.cs",
+              "RelativeToolTip": "Merkava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:08:20.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Volvo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Volvo.cs",
+              "RelativeDocumentMoniker": "Volvo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Volvo.cs",
+              "RelativeToolTip": "Volvo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:54:14.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Abrams.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Abrams.cs",
+              "RelativeDocumentMoniker": "Abrams.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Abrams.cs",
+              "RelativeToolTip": "Abrams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:03:12.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Scania.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Scania.cs",
+              "RelativeDocumentMoniker": "Scania.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Scania.cs",
+              "RelativeToolTip": "Scania.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:01:41.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Man.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Man.cs",
+              "RelativeDocumentMoniker": "Man.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Man.cs",
+              "RelativeToolTip": "Man.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:00:11.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Tesla.cs",
+              "RelativeDocumentMoniker": "Tesla.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Tesla.cs",
+              "RelativeToolTip": "Tesla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:52:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Honda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Honda.cs",
+              "RelativeDocumentMoniker": "Honda.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Honda.cs",
+              "RelativeToolTip": "Honda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:48:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Audi.cs",
+              "RelativeDocumentMoniker": "Audi.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\Audi.cs",
+              "RelativeToolTip": "Audi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:40:33.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITank.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ITank.cs",
+              "RelativeDocumentMoniker": "ITank.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ITank.cs",
+              "RelativeToolTip": "ITank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:36:30.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICargo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ICargo.cs",
+              "RelativeDocumentMoniker": "ICargo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ICargo.cs",
+              "RelativeToolTip": "ICargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:33:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\IVehicle.cs",
+              "RelativeDocumentMoniker": "IVehicle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\IVehicle.cs",
+              "RelativeToolTip": "IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:18:51.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ICar.cs",
+              "RelativeDocumentMoniker": "ICar.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FactoryMethod\\ICar.cs",
+              "RelativeToolTip": "ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:14:54.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
