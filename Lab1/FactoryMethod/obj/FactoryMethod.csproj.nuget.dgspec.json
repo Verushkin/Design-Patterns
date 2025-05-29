@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\FactoryMethod\\FactoryMethod.csproj": {}
+    "D:\\ЕГУ\\2 Design Patterns\\Lab1\\FactoryMethod\\FactoryMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\FactoryMethod\\FactoryMethod.csproj": {
+    "D:\\ЕГУ\\2 Design Patterns\\Lab1\\FactoryMethod\\FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "D:\\ЕГУ\\2 Design Patterns\\Lab1\\FactoryMethod\\FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "C:\\Users\\User\\source\\repos\\FactoryMethod\\FactoryMethod.csproj",
+        "projectPath": "D:\\ЕГУ\\2 Design Patterns\\Lab1\\FactoryMethod\\FactoryMethod.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\FactoryMethod\\obj\\",
+        "outputPath": "D:\\ЕГУ\\2 Design Patterns\\Lab1\\FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
